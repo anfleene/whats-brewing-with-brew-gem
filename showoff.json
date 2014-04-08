@@ -1,0 +1,6 @@
+{ "name": "Whats Brewing with brew-gem",
+  "sections": [
+                {"section": "why"},
+                {"section": "how"},
+              ]
+}
