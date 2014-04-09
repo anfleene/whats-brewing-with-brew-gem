@@ -4,7 +4,7 @@
 
 !SLIDE center transition=uncover
 
-## You can run my simple self installer listed on the member management repo README
+## You can run my simple self installer listed in the Member Management README
 
 !SLIDE center transition=uncover
 
@@ -12,8 +12,8 @@
 
 !SLIDE bullets incremental transition=uncover
 * brew-gem installed
-* A gem source added for our gemfury account
-* [opsicle](http://github.com/sportngin/opsicle), [soyuz](https://github.com/sportngin/soyuz)(not technically), and sportngin automation
+* A rubygems source added to your system rubygems for our gemfury account
+* [opsicle](http://github.com/sportngin/opsicle), [soyuz](https://github.com/sportngin/soyuz)(not technically), and automation
 
 !SLIDE center transition=uncover
 
@@ -21,7 +21,7 @@
 
 !SLIDE center transition=uncover
 
-## Use of brew-gem is in a _BETA_ state
+## Currently the use of brew-gem is _BETA_ with the new Member Management apps
 
 !SLIDE center transition=uncover
 
