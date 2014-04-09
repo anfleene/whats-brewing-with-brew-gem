@@ -8,6 +8,7 @@ desc "Push to github, github pages, and heroku"
 task :release do |t|
   system "git push origin master"
   system "bundle exec showoff github"
+  system "git push origin gh-pages"
   system "rm -r static"
   system "git push heroku master"
 end
