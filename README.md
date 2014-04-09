@@ -2,7 +2,7 @@
 
 [View on Heroku](http://sportngin-brew-gem.herokuapp.com/)
 
-[View on GH-Pages](http://anfleene.github.com/whats-brewing-with-brew-gem/)
+[View on GH-Pages](http://anfleene.github.io/whats-brewing-with-brew-gem/)
 
 
 To run this presentation do the following:
